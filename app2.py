@@ -7,8 +7,8 @@ import pyimgur
 CLIENT_ID = "B114815e13bb751"  # 申請 Imgur API取得ID
 
 
-account = '07115139'
-password = '3638'
+account = '********'
+password = '****'
 
 
 def R():
